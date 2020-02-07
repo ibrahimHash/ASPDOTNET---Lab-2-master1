@@ -1,0 +1,33 @@
+﻿/**** Default ****/
+
+
+
+/* Buttons */
+.btn btn-primary btn-lg {
+    font-family: "TYPOGRAPH PRO";
+    background-color: rgb(54,132,180,.8);
+}
+
+/* text */
+
+
+/* Box Elements */
+.jumbotron {
+    background-color: rgb(233,237,239);
+}
+
+/* Images */
+#Logo
+{
+    position: center;
+}
+
+/* div */
+
+/**** Master ****/
+
+
+/**** Available ****/
+h2{
+    color: grey;
+}
